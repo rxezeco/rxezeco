@@ -9,7 +9,7 @@ I am a pharmacist by profession as well as a trained Data Analyst but recently d
 *   🌍  I'm based in Nigeria.
 *   ✉️  You can contact me at [ezeogbonnac@gmail.com](mailto:ezeogbonnac@gmail.com)
 *   🧠  I'm learning javascript
-*   🤝  I'm open to collaborating on interesting topics
+*   🤝  I'm open to collaboration.
 *   ⚡  I like being challenged by task<a href="https://www.twitter.com/pharmacodez" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/pharmacodez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
                 /></a>### Skills 
